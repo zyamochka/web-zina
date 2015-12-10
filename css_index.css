@@ -1,0 +1,41 @@
+body {
+background-color: Seashell;
+}
+.table1 {
+    border-collapse: collapse;
+	text-align: center;
+	color: darkblue;
+    }
+.table1 th {
+	border-collapse: collapse;
+	text-align: center;
+	padding-right: 200px;
+}
+
+.table2 {
+    border-collapse: collapse;
+	text-align: center;
+	    }
+	
+.table2 th{
+	padding: 20px;
+    padding-left: 100px;
+	padding-right: 100px;
+    border: 1px solid black;
+    color: brown;
+    background-color: PeachPuff;
+}
+.table2 td {
+    padding: 20px;
+    padding-left: 100px;
+	padding-right: 100px;;
+    border: 1px solid black;
+    color: brown;
+    background-color: BlanchedAlmond;
+}
+
+.table2 caption {
+    margin-bottom: 10px;
+    font-size: 30px;
+	color: darkblue;
+}
