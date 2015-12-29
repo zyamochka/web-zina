@@ -37,6 +37,10 @@ body::before {
     border-collapse: collapse;
 	text-align: center;
 	    }
+
+.table2 tr {
+	background-color: BlanchedAlmond;
+}
 		
 .table2 tr:hover
 {
@@ -57,11 +61,11 @@ body::before {
 	padding-right: 100px;;
     border: 1px solid black;
     color: brown;
-    background-color: BlanchedAlmond;
-}
+    }
 
 .table2 caption {
     margin-bottom: 10px;
     font-size: 30px;
 	color: darkblue;
 }
+
