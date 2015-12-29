@@ -31,15 +31,17 @@ body::before {
 	padding-right: 200px;
 }
 
-tr:hover
-{
- background-color: MediumSeaGreen; 
-}
+
 
 .table2 {
     border-collapse: collapse;
 	text-align: center;
 	    }
+		
+tr:hover
+{
+ background-color: MediumSeaGreen; 
+}
 	
 .table2 th{
 	padding: 20px;
