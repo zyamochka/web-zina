@@ -59,7 +59,7 @@ body::before {
 	color: darkblue;
 }
 
-.cup:hover
+tr:hover
 {
  background-color: MediumSeaGreen; 
 }
