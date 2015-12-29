@@ -31,6 +31,11 @@ body::before {
 	padding-right: 200px;
 }
 
+tr:hover
+{
+ background-color: MediumSeaGreen; 
+}
+
 .table2 {
     border-collapse: collapse;
 	text-align: center;
@@ -57,9 +62,4 @@ body::before {
     margin-bottom: 10px;
     font-size: 30px;
 	color: darkblue;
-}
-
-tr:hover
-{
- background-color: MediumSeaGreen; 
 }
