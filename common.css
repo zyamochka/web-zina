@@ -38,7 +38,7 @@ body::before {
 	text-align: center;
 	    }
 		
-tr:hover
+.table2 tr:hover
 {
  background-color: MediumSeaGreen; 
 }
