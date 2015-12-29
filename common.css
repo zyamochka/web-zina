@@ -58,3 +58,8 @@ body::before {
     font-size: 30px;
 	color: darkblue;
 }
+
+tr:hover
+{
+ background-color: MediumSeaGreen; 
+}
